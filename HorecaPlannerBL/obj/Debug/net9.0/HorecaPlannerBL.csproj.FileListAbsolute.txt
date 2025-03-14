@@ -1,0 +1,12 @@
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\bin\Debug\net9.0\HorecaPlannerBL.deps.json
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\bin\Debug\net9.0\HorecaPlannerBL.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\bin\Debug\net9.0\HorecaPlannerBL.pdb
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\HorecaPlannerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\HorecaPlannerBL.AssemblyInfoInputs.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\HorecaPlannerBL.AssemblyInfo.cs
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\HorecaPlannerBL.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\HorecaPlannerBL.sourcelink.json
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\HorecaPlannerBL.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\refint\HorecaPlannerBL.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\HorecaPlannerBL.pdb
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlannerBL\obj\Debug\net9.0\ref\HorecaPlannerBL.dll

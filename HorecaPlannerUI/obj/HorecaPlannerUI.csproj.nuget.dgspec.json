@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerUI\\HorecaPlannerUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\HorecaPlannerBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\HorecaPlannerBL.csproj",
+        "projectName": "HorecaPlannerBL",
+        "projectPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\HorecaPlannerBL.csproj",
+        "packagesPath": "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thibaud.Mortier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerUI\\HorecaPlannerUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerUI\\HorecaPlannerUI.csproj",
+        "projectName": "HorecaPlannerUI",
+        "projectPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerUI\\HorecaPlannerUI.csproj",
+        "packagesPath": "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thibaud.Mortier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\HorecaPlannerBL.csproj": {
+                "projectPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\HorecaPlannerBL.csproj"
+              },
+              "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlsnnerDL\\HorecaPlsnnerDL.csproj": {
+                "projectPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlsnnerDL\\HorecaPlsnnerDL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlsnnerDL\\HorecaPlsnnerDL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlsnnerDL\\HorecaPlsnnerDL.csproj",
+        "projectName": "HorecaPlsnnerDL",
+        "projectPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlsnnerDL\\HorecaPlsnnerDL.csproj",
+        "packagesPath": "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlsnnerDL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thibaud.Mortier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\HorecaPlannerBL.csproj": {
+                "projectPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionHorecaPlanner\\HorecaPlannerBL\\HorecaPlannerBL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

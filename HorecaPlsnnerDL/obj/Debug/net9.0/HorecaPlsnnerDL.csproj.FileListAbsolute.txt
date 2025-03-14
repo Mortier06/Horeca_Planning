@@ -1,0 +1,16 @@
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\bin\Debug\net9.0\HorecaPlsnnerDL.deps.json
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\bin\Debug\net9.0\HorecaPlsnnerDL.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\bin\Debug\net9.0\HorecaPlsnnerDL.pdb
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\bin\Debug\net9.0\HorecaPlannerBL.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\bin\Debug\net9.0\HorecaPlannerBL.pdb
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.csproj.AssemblyReference.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.AssemblyInfoInputs.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.AssemblyInfo.cs
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.sourcelink.json
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPl.83ABCE41.Up2Date
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\refint\HorecaPlsnnerDL.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\HorecaPlsnnerDL.pdb
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionHorecaPlanner\HorecaPlsnnerDL\obj\Debug\net9.0\ref\HorecaPlsnnerDL.dll
